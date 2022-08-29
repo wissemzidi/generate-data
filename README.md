@@ -1,9 +1,5 @@
 # Read Me
 
-## [👀 Live-Server](https://.netlify.app)
-
-<img src="./preview.png" alt="">
-
 ---
 
 ### Table of Contents 👋
@@ -22,15 +18,16 @@ This project is an input validation with a styling.
 
 #### Technologies <img src="https://github.com/Wissem-Zidi/icons/blob/main/technologies.svg" alt="🛠️" height="20">
 
-- HTML 5
-- CSS 3
-- Java Script
+- python
+- javascript
 
 [Back To The Top](#read-me)
 
 ---
 
 ## How To Use
+
+- open the exe file and write how much data you want.
 
 #### Installation <img src="https://github.com/Wissem-Zidi/icons/blob/main/settings.svg" alt="" height="25">
 
@@ -44,7 +41,9 @@ This project is an input validation with a styling.
 
 ---
 
-## References
+## Library
+
+- Random (randint)
 
 [Back To The Top](#read-me)
 
